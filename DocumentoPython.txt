@@ -1,0 +1,7 @@
+def función chulisma (a,b,c):
+INSTRUCCIONES
+ETC
+TEC
+ETC
+
+	 1000 líneas de código
